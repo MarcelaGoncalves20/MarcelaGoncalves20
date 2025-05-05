@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 <h1> Welcome to my Github!
 
-<img>https://i.pinimg.com/736x/13/41/c6/1341c66dd00f5d3173b8639c3140970a.jpg<img>
+<img src= https://i.pinimg.com/736x/13/41/c6/1341c66dd00f5d3173b8639c3140970a.jpg/>
